@@ -1,11 +1,7 @@
 # Yet-Another-Language
 Systems programming language with manual memory management and arbitrary compile time execution.
 
-> This project is a work in progress. While it hasn't been worked on in a while and might not get worked on for a while (if ever), it's not abandoned and stays in the back of my mind.
-> 
-> It is not in a usable state for anything serious.
-> 
-> I planned on keeping this private until I got a name for the language and a v0, but this might never happen
+> This project is a work in progress.
 
 ## General overview
 The syntax is inspired by Zig, the philosophy and design by Jai. In this language, most things are first class (types, functions, modules, etc).
